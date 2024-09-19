@@ -54,6 +54,7 @@
 /home/anan/turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/turtlebot3_waffle.urdf
 /home/anan/turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/turtlebot3_waffle_pi.urdf
 /home/anan/turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_house.world
+/home/anan/turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/new_test_word.world
 /home/anan/turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/empty_world.world
 /home/anan/turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/test_world.world
 /home/anan/turtlebot3_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_dqn_stage2.world
